@@ -1,0 +1,14 @@
+{
+  "name": "abs",
+  "version": "1.0.0",
+  "description": "sd",
+  "main": "app.js",
+  "scripts": {
+    "test": "s"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
